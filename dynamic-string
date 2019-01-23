@@ -1,0 +1,8 @@
+>>> animal="tiger"
+>>> food="meat"
+>>> "{} like {}".format(animal,food)
+'tiger like meat'
+>>> "{1} like {0}".format(animal,food)
+'meat like tiger'
+>>> 
+
